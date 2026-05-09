@@ -1,0 +1,19 @@
+h1{
+font-family: Arial, Helvetica, sans-serif;
+color: orange;
+}
+.p1{
+    color: blue;
+}
+.p2{
+    color: red;
+}
+.cam{
+    color: orange;
+}
+.p3{
+    padding: 3px;
+    border-left: 3px rgb(255, 191, 64) solid ;  
+    background-color: rgb(255, 240, 190);
+    width: 420px;
+}
